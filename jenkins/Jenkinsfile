@@ -11,7 +11,7 @@ pipeline {
     }
 
     environment {
-        SONAR_HOST_URL = 'http://13.69.247.235:9000'
+        SONAR_HOST_URL = 'http://10.0.2.15:9000'
         DOCKER_CONFIG = '/tmp/.docker'
     }
 
